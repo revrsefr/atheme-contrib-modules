@@ -38,6 +38,11 @@
 #define CONTRIB_VENDOR_JILLEST          "Jilles Tjoelker <jilles -at- stack.nl>"
 
 /*
+ * bs_youtube.c
+ */
+ #define CONTRIB_VENDOR_REVERSE          "Jean Chevronnet <reverse -at- chaat.site>"
+
+/*
  * cs_babbler.c
  * cs_kickdots.c
  * cs_modesync.c
